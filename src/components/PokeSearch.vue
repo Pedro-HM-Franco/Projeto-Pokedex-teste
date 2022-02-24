@@ -25,11 +25,13 @@ export default {
 </script>
 
 <style scoped>
+
 .searchbar {
   position: relative;
   width: 100%;
   max-width: 510px;
   padding-bottom: 20px;
+  padding-top: 20px;
   
 
 }
