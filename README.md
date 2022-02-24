@@ -1,8 +1,10 @@
-# poke
+# Pokedex
 
 # Como funciona:
-Listagem de todos os pokemons atraves da api pokeapi, e tambem busca de pokemon especifico utilizando numero ou nome do mesmo, pagina de detalhes aparece clicando em um pokemon ou
-pesquisando.
+
+*Lista todos os Pokemon's.
+*Clicando no Pokemon da Pagina se abre uma pagina dealhada.
+*Busca Pokemon pesquisado e apresenta uma pagina mais detalhada. 
 
 # Link da API
 
