@@ -2,9 +2,9 @@
 
 # Como funciona:
 
-*Lista todos os Pokemon's.
-*Clicando no Pokemon da Pagina se abre uma pagina dealhada.
-*Busca Pokemon pesquisado e apresenta uma pagina mais detalhada. 
+- Lista todos os Pokemon's.
+- Clicando no Pokemon da Pagina se abre uma pagina dealhada.
+- Busca Pokemon pesquisado e apresenta uma pagina mais detalhada. 
 
 # Link da API
 
