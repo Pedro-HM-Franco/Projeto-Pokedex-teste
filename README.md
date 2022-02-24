@@ -4,6 +4,11 @@
 Listagem de todos os pokemons atraves da api pokeapi, e tambem busca de pokemon especifico utilizando numero ou nome do mesmo, pagina de detalhes aparece clicando em um pokemon ou
 pesquisando.
 
+# Link da API
+
+API Pokémon https://pokeapi.co/
+
+
 ## Project setup
 ```
 npm install
