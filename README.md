@@ -1,12 +1,12 @@
 # Pokedex
 
-# Como funciona:
+# How it works::
 
-- Lista todos os Pokemon's.
-- Clicando no Pokemon da Pagina se abre uma pagina dealhada.
-- Busca Pokemon pesquisado e apresenta uma pagina mais detalhada. 
+- List all Pokemon's.
+- Clicking on the Pokemon on the Page opens a detailed page..
+- Search Pokemon researched and presents a more detailed page. 
 
-# Link da API
+# API link
 
 API Pokémon https://pokeapi.co/
 
