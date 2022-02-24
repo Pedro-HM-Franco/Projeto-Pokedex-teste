@@ -1,9 +1,13 @@
 # poke
 
+Listagem de todos os pokemons atraves da api pokeapi, e tambem busca de pokemon especifico utilizando numero ou nome do mesmo, pagina de detalhes aparece clicando em um pokemon ou
+pesquisando.
+
 ## Project setup
 ```
 npm install
 ```
+npm install -g @vue/cli
 
 ### Compiles and hot-reloads for development
 ```
